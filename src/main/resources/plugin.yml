@@ -1,0 +1,4 @@
+main: me.codalot.merchant.Loader
+name: MerchantMaster
+version: 1.0
+softdepend: [Vault]
